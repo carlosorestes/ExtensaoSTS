@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-sources>
+	<data-source id="h2_embedded-16bbfb933c3-9c293acc1591c00" provider="generic" driver="h2_embedded" name="H2 - extensaosts" save-password="true" read-only="false">
+		<connection server="" database="extensaosts" url="jdbc:h2:mem:extensaosts" user="root" password="AQsJNCGi" type="dev"/>
+	</data-source>
+	<filters/>
+</data-sources>
